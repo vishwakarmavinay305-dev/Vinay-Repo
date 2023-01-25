@@ -1,9 +1,9 @@
 # Introduction to  ``` Git  and GitHUb ```
-1. git is server level tool to maintain Agile methodology.
+### Git is server level tool to maintain Agile methodology.
 
-SDLC : software developement life cycle.
+### SDLC : Software Developement Life Cycle.
 
-product
+  Product
 1. raw material
 2. processing
 3. manufacturing
@@ -26,13 +26,13 @@ sdlc:- models
 8. Big Bang Model
 9. Agile Model (latest model)
 
-why do we need model:-
+### Why do we need model:-
 we need model so that we can maintain the standards.
 1. Software Quality good.
 2. Software Deadlines.
 3. Software Quantity Benchmark.
 
-Any model undergoes following steps
+### Any model undergoes following steps
 1. Requirement Analysis
 2. Design or Feasibility Analysis
 3. Actual Implementation (Designing and coding)
@@ -42,12 +42,12 @@ Any model undergoes following steps
 7. Feedback
 8. maintainance.
 
-Devops Engineer :- 
+### Devops Engineer :- 
 it is culture under Agile.
 Devops = Developement(Technical Testing +  coding + Designing) + Operations (Non Tech)
 
-Agile :- modern approach methodology sdlc.
-Agile :- 
+### Agile :- modern approach methodology sdlc.
+## Agile :- 
 1. scrum : 5 sprint = 1 scrum in a week
 2. sprint : no of task done in 1 day in 8 hours.
 3. scrum master : Team work, scrum master (manager).
@@ -76,14 +76,8 @@ Agile :-
 	 
 	 Friday :- Daily scrum (psr)
 	 Deadline : overtime and saturday (Payscale Jira)
-	 
-	 
-	  
-	  
 	
-	
-	
-5. review :
+5. Review :
 	Daily Review
 	 1. Narrow : done hawa mey 
 	 2. wide : register => jira => code push (git)=> jira code is pushed
@@ -136,7 +130,7 @@ Agile :-
 It-Sector : 5 days working.
 
 
-What is git?
+### What is git?
 
 git is scm or vcs.
 scm
@@ -164,11 +158,11 @@ hence we keep the copy of our project in a server which cannot accessed directly
 
 server:secure,and it does not allow delete Operation.
 
-what type of server?
+### What type of server?
 *****************************
 it is a cloud server.
 
-Types of cloud Server.
+### Types of cloud Server.
 
 1.Dedicated Server.(private server)
 2.Non Dedicated Server.(public server)
@@ -176,7 +170,7 @@ Types of cloud Server.
 1.Centralized Server.
 2.Distributed Server.
 
-difference b/w svn and git
+ ### Difference b/w svn and git
 1.svn:centralized server.
 2.git:distributed server.
 
@@ -189,14 +183,14 @@ Ex:Security,NIC,CBI.
 3.svn:centralized server then no backup possible.
 git: since we have lot of server backup problem is resolved.
 
-what type of cloud server:
+## What type of Cloud Server?
 1.github  =(latest=> Linux open source free to use for single person,for company it is pais=>Microsoft)
 2.gitlab=(latest=>open source =>free)
 3.bitBucket
 4.BitKeeper(oldest)=>Linux open source free to use.
 
 
-Source=> server =>cloud server.
+## Source=> server =>cloud server.
 github => account
 all files folder.
 similarly in github=> file upload in a folder
@@ -216,7 +210,7 @@ every git repository is accessed using git url.
 https://github.com/owner-name(profile-name)/repo-name.git
 
 
-Every Repo 2 Types
+## Every Repo 2 Types
 1.Private Repo:(any body can not download)
 2.Public Repo:Anybody can download(visible to anybody)
 
@@ -247,7 +241,7 @@ For more detail information in better way  you can go for readme.md.
 
 can we change name of main to master
 
-1.There are two type of setting.
+### 1.There are two type of setting.
 
 1.Global Setting
     a.account based setting=>
